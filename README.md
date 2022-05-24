@@ -1,1 +1,1 @@
-# the repository consists of jupyter notebook containing the implementation of consensus algorithm used in public blockchain; Proof of Work
+# the repository consists of jupyter notebook containing the implementation of consensus algorithm (Proof of Work) used in public blockchain
